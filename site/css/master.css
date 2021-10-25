@@ -7,16 +7,16 @@
 .chicken {
   background-color: #d59898;
 
-  border: 2px solid black;
+  border: 1px solid black;
 }
 .beef {
   background-color: red;
   color: white;
-  border: 2px solid black;
+  border: 1px solid black;
 }
 .sushi {
   background-color: #e5d198;
-  border: 2px solid black;
+  border: 1px solid black;
 }
 .menu {
   text-align: center;
@@ -48,7 +48,7 @@ p {
   .row2,
   .row3 {
     width: calc(95% / 3);
-    border: 2px solid black;
+    border: 1px solid black;
     float: left;
     margin: 5px;
     background-color: #999999;
@@ -59,7 +59,7 @@ p {
   .row1,
   .row2 {
     width: calc(97% / 2);
-    border: 2px solid black;
+    border: 1px solid black;
     float: left;
     margin: 5px;
     background-color: #999999;
@@ -69,7 +69,7 @@ p {
     width: 98%;
     margin-left: 5px;
     margin-right: 10px;
-    border: 2px solid black;
+    border: 1px solid black;
     background-color: #999999;
   }
 }
