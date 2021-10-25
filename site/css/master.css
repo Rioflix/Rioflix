@@ -7,18 +7,18 @@
 .chicken {
   background-color: #d59898;
   border: 1px solid black;
-  margin:-2px;
+  margin: -2px;
 }
 .beef {
   background-color: red;
   color: white;
   border: 1px solid black;
-  margin:-2px;
+  margin: -2px;
 }
 .sushi {
   background-color: #e5d198;
   border: 1px solid black;
-  margin:-2px;
+  margin: -2px;
 }
 .menu {
   text-align: center;
