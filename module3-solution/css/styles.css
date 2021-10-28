@@ -1,0 +1,14 @@
+nav.navbar.navbar-expand-lg.navbar-light {
+  background-color: #999999;
+}
+.chicken,
+.beef,
+.sushi {
+  background-color: #999999;
+}
+.nav-item .nav-link {
+  color: black;
+}
+div.collapse {
+  background-color: #fff;
+}
