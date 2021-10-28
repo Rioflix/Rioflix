@@ -13,5 +13,8 @@ div.collapse {
   background-color: #fff;
 }
 body{
-  padding:90px;
+  padding-top: 90px;
+}
+div.collapse{
+  margin-top: -32px;
 }
